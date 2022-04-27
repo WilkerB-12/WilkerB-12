@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Wilker Blanco
-- 👀 I’m interested in 
-- 🌱 I’m currently learning HTML5, CSS, Javascript, Python, etc in the Full Stack developer programm of 4Geeks Academy
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in to get my first job oportunity
+- 🌱 I’m currently learning HTML5, CSS, Javascript, React JS, Python to improve my Skills developed in 4Geek's Bootcamp
 - 📫 How to reach me wilkeranco18@gmail.com
 
 <!---
