@@ -1,8 +1,7 @@
-<h1 align="center">Hola 👋, soy   Wilker Blanco desarrollador web Full stack</h1>
-<h3 align="center">Tengo capacidad de realizar proyectos web modularizados para trabajar construirlo en equipo y sea escalable.
-
-
-Soy un profesional con mucha curiosidad, autodidacta con gran capacidad de resolución de problemas y muy sociable, me gusta ayudar a las personas  para poder desarrollarnos juntos.</h3>
+<h1 align="center">Hi! 👋, I'm Wilker Blanco. I'm Full stack developer</h1>
+<h3 align="center">🚀I am a very curious professional, self-taught with great problem-solving skills and very sociable, I like to help people to develop together
+. 🧑🏻‍💻
+</h3>
 
 
 
